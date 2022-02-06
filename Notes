@@ -1,0 +1,34 @@
+GITBASH
+
+CD = code directory 
+PWD = present working directory
+LS = listing all the files and folders
+MKDIR = make directory (folder etc.)
+touch = make files
+
+
+
+SUBLIME TEXT
+
+html = skeleton 
+CSS - cascading stylesheet - it is used to style/design
+our webpages.
+
+html - create elements
+css - design elements
+javascipt - interact with element
+
+BOOTSTRAP = https://getbootstrap.com/docs/4.6/getting-started/introduction/
+GOOGLE FONTS = https://fonts.google.com/
+
+
+TAGS
+<div>=division
+ctrl + shift + / (for comments)
+
+class - we can target it to apply the same styling for different elements
+
+id - unique identifier for our elements
+
+margin - space outside of the element
+padding - space inside the element
